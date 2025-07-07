@@ -1,0 +1,37 @@
+Pehle Script File Banao
+====================================
+1. nano db_clone_no_data.sh //file creation
+
+Script ko Executable Banao
+====================================
+2. chmod +x db_clone_no_data.sh
+
+Script Run Karo current folder me terminal open ho
+====================================
+3. ./db_clone_no_data.sh
+
+
+Aapko kuch aisa dikhai dega:
+=====================================
+🚀 Cloning structure from lisa_ehr_master to lisa_ehr_clone
+✅ Database lisa_ehr_clone created (if not exists).
+✅ Structure dump of lisa_ehr_master completed.
+✅ Structure imported into lisa_ehr_clone.
+🗑️ Temporary dump file removed.
+🎉 Structure-only clone completed successfully!
+
+
+
+MySQL me login karo:
+==================================
+mysql -u root -p@devlogix2011
+
+
+Check target DB:
+==================================
+USE lisa_ehr_clone;
+SHOW TABLES;
+
+
+
+
