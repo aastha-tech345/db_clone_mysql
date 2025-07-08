@@ -13,12 +13,12 @@ Script Run Karo current folder me terminal open ho
 
 Aapko kuch aisa dikhai dega:
 =====================================
-🚀 Cloning structure from lisa_ehr_master to lisa_ehr_clone
-✅ Database lisa_ehr_clone created (if not exists).
-✅ Structure dump of lisa_ehr_master completed.
-✅ Structure imported into lisa_ehr_clone.
-🗑️ Temporary dump file removed.
-🎉 Structure-only clone completed successfully!
+> > Cloning structure from lisa_ehr_master to lisa_ehr_clone
+> > Database lisa_ehr_clone created (if not exists).
+> > Structure dump of lisa_ehr_master completed.
+> > Structure imported into lisa_ehr_clone.
+> > Temporary dump file removed.
+> > Structure-only clone completed successfully!
 
 
 
